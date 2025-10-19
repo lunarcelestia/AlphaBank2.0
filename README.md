@@ -171,7 +171,7 @@
 </td>
 <td width="50%" style="text-align: center;">
 
-![ИИ-ассистент]([https://via.placeholder.com/270x480/101010/ffffff?text=GIF+ИИ+Ассистент](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRwaDBkeXB4b20zcHBjZTBmZTduZmo2eDdnenNkdXU5ZGg3d3dlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cHp8PdaJDncSKO9KZC/giphy.gif))
+![ИИ-ассистент](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRwaDBkeXB4b20zcHBjZTBmZTduZmo2eDdnenNkdXU5ZGg3d3dlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cHp8PdaJDncSKO9KZC/giphy.gif)
 <div style="font-size: 12px; color: #666; margin-top: 8px;">Работа интеллектуального помощника</div>
 
 </td>
